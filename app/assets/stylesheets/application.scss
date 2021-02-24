@@ -13,9 +13,13 @@
 @import "pages/index";
 
 
+nav {
+  display: flex;
+}
 
 
-
-.navbar{
- color: #E6549D;
+.nav-title{
+ color: #6ABE47;
+ font-size: 20px;
+ display: inline-block;
 }
